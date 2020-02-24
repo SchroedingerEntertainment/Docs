@@ -20,11 +20,11 @@ the Copyright and Similar Rights held by the Licensor.
 
 1. License
 
-The covered work is licensed under the terms and conditions of the AGPL as described in [the license](https://github.com/SchroedingerEntertainment/License/blob/master/AGPLv3.md).
+The covered work is licensed under the terms and conditions of the AGPL as described in [the license](https://github.com/SchroedingerEntertainment/Docs/blob/master/Licenses/AGPLv3.md).
 
-The covered work is licensed under the terms and conditions of an [additional agreement](https://github.com/SchroedingerEntertainment/License/blob/master/AGPLv3%20Exception.md) as a special exception to the terms
+The covered work is licensed under the terms and conditions of an [additional agreement](https://github.com/SchroedingerEntertainment/Docs/blob/master/Licenses/AGPLv3%20Exception.md) as a special exception to the terms
 and conditions of the AGPL.
 
 Any work considered Adapted Material, Schroedinger Entertainment, its names and logos are licensed under the terms and conditions
-of the Creative Commons Attribution-NoDerivatives 4.0 International Public License as described in [the license](https://github.com/SchroedingerEntertainment/License/blob/master/CCAND%204.0%20IPL.md).
+of the Creative Commons Attribution-NoDerivatives 4.0 International Public License as described in [the license](https://github.com/SchroedingerEntertainment/Docs/blob/master/Licenses/CCAND%204.0%20IPL.md).
 
